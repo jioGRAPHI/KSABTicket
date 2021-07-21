@@ -9,29 +9,22 @@
 ## Order Form Format:
 **order form inputs must follow a specific format**
 
-> \<DAT\E> July 20
+> \<DATE\> July 20
 > 
 > 
 > \<DISPATCH TIME\> 11:30 PM
-> 
 > \<DELIVERY TIME\> 12:30 AM
 > 
 > 
 > \<NAME\> JULS Peralta
-> 
 > \<CONTACT\> 055 7201007 at 0563812494
-> 
 > \<ADDRESS\> Double tree hilton hotel Al Barsha
 > 
 > 
 > \<ORDERS\>
-> 
 > 2kg Lechon Belly - 120 aed
-> 
 > Pork BBQ(20) - 100 aed
-> 
 > 1 cheescake - 90 aed
-> 
 > \</\>
 > 
 > 
