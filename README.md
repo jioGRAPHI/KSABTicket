@@ -9,6 +9,36 @@
 ## Order Form Format:
 **order form inputs must follow a specific format**
 
-> <DATE> _date ordered here_ \n<DISPATCH TIME> _dispatch time here_\n<DELIVERY TIME> _delivery time here_\n\n<NAME> _customer name here_\n<CONTACT> _customer contact details here_\n<ADDRESS> _customer address here_\n\n<ORDERS>\n_orders here_\n</>\n\n<DELIVERY FEE> _delivery fee here_\n<TOTAL> _total amount here_\n<NOTES> _additional order remarks/notes here_
+> \<DAT\E> July 20
+> 
+> 
+> \<DISPATCH TIME\> 11:30 PM
+> 
+> \<DELIVERY TIME\> 12:30 AM
+> 
+> 
+> \<NAME\> JULS Peralta
+> 
+> \<CONTACT\> 055 7201007 at 0563812494
+> 
+> \<ADDRESS\> Double tree hilton hotel Al Barsha
+> 
+> 
+> \<ORDERS\>
+> 
+> 2kg Lechon Belly - 120 aed
+> 
+> Pork BBQ(20) - 100 aed
+> 
+> 1 cheescake - 90 aed
+> 
+> \</\>
+> 
+> 
+> \<DELIVERY FEE\> 10 aed
+> 
+> \<TOTAL\> 320 aed
+> 
+> \<NOTES\> PLEEASE PRINT HAPPY BIRTHDAY JULS(TOPPER) AND GIVE A CANDLE
  
-**orders must be enclosed in _<ORDER>_ and _</>_ tags as to determine if an entry is an order or other entries**
+**orders must be enclosed in _\<ORDER\>_ and _\</\>_ tags as to determine if an entry is an order or other entries**
